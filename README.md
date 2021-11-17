@@ -109,4 +109,7 @@ While still in the wordpress directory, build the local enviroment
 **Use web interface to finish installation**
 Using any web browser, enter `http://localhost.8080` in the search bar this will bring you to the WordPress instalation site and will allow you to finish the installation. 
 
+Once Set up your admin interface will look like this 
+![admin interface](https://github.com/mylesndavid/DockerInstallation/blob/main/AdminInterface.png)
+
 Reference: https://linuxiac.com/wordpress-with-docker/
